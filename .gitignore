@@ -1,10 +1,10 @@
-/dist/
-
 ### Eclipse ###
 
 .metadata
+dist/
 bin/
 tmp/
+out/
 *.tmp
 *.bak
 *.swp
